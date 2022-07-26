@@ -1,0 +1,23 @@
+{
+  "name": "crud-api-nodemg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kittipong582/CRUD-API-NodeMG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kittipong582/CRUD-API-NodeMG/issues"
+  },
+  "homepage": "https://github.com/kittipong582/CRUD-API-NodeMG#readme",
+  "dependencies": {
+    "fastify": "^4.2.1"
+  }
+}
